@@ -7,7 +7,7 @@
     pip install -r requirements.txt
 4. Also install 
    sqlite
-5 run command
+5. run command
     python manage.py runserver
 
 
